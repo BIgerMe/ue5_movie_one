@@ -1,0 +1,104 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "Apartment Cute solo — slim plugin set for faster editor startup.",
+	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": false
+		},
+		{
+			"Name": "VirtualScouting",
+			"Enabled": false
+		},
+		{
+			"Name": "VirtualProductionUtilities",
+			"Enabled": false
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": false
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": false
+		},
+		{
+			"Name": "Composite",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaIOFramework",
+			"Enabled": false
+		},
+		{
+			"Name": "RemoteControl",
+			"Enabled": false
+		},
+		{
+			"Name": "nDisplay",
+			"Enabled": false
+		},
+		{
+			"Name": "AjaMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "BlackmagicMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleProResMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "HAPMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": false
+		},
+		{
+			"Name": "VariantManager",
+			"Enabled": false
+		},
+		{
+			"Name": "DMXProtocol",
+			"Enabled": false
+		},
+		{
+			"Name": "PerformanceCaptureWorkflow",
+			"Enabled": false
+		},
+		{
+			"Name": "Takes",
+			"Enabled": false
+		}
+	]
+}

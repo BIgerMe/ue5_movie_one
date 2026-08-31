@@ -1,0 +1,37 @@
+# Unreal Engine — build / cache / local editor state
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Secrets — never commit
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Large archived content (already moved out of active Content)
+Content/_ArchiveContent/
+
+# Optional: local crash dumps
+*.dmp
+
+# Python cache in project
+**/__pycache__/
+**/*.pyc
